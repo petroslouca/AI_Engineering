@@ -1,688 +1,688 @@
-Service;Agent;Time;Medium
-Laptop Support;giorgia;120;Phone
-Desktop Support::Personalized (user) setup;giorgia;241;Phone
-Desktop Support::Personalized (user) setup;giorgia;181;Phone
-IS-Accounts::New account;giorgia;60;Email
-IS-Multimedia Equipment::Usage request - Multimedia equipment;giorgia;20;Phone
-IS-Multimedia Equipment::Usage request - Multimedia equipment;giorgia;30;Email
-IS-Accounts::New account;giorgia;30;Email
-Laptop Support::Usage request;giorgia;30;Phone
-Laptop Support::Power Supply malfunction;giorgia;31;OnSiteVisit
-Laptop Support::Usage request;giorgia;61;Phone
-Laptop Support;giorgia;181;Email
-IS-Accounts::Usage request;giorgia;30;Email
-Non-strategic Software;giorgia;60;Email
-Non-strategic Software;giorgia;15;Phone
-IS-Electronic Storage;giorgia;30;Phone
-IS-Accounts::Usage request;giorgia;40;Email
-IS-Incident Management System::Usage request;petros;3;Email
-Specialized software::New installation;petros;16;Email
-Laptop Support;petros;10;Email
-IS-Strategic Software::Usage request-Ms Office 365;petros;45;Email
-IS-Accounts::Performance degradation;petros;401;Email
-AS-Fixed Assets Management System;giorgia;40;SelfAssigned
-AS-Application Server Management;giorgia;45;SelfAssigned
-Non-strategic Software;giorgia;30;Phone
-IS-Accounts::Locked account;giorgia;30;Email
-IS-Network Access;giorgia;30;Email
-IS-Multimedia Equipment::Usage request - Multimedia equipment;giorgia;30;Phone
-AS-Budget management;giorgia;31;SelfAssigned
-IS-Accounts::New account;giorgia;16;Email
-IS-Incident Management System::Usage request;giorgia;121;Email
-IS-Accounts::Usage request;giorgia;35;OnSiteVisit
-Tender management::Acceptance;giorgia;60;Email
-IS-e-Mail::Mailbox malfunction;giorgia;5;Email
-IS-Wireless Network::Usage request;petros;10;Email
-IS-e-Mail::Mail Office365;petros;90;Email
-Laptop Support::Usage request;giorgia;31;Email
-Specialized software::Usage request;giorgia;180;Email
-Non-strategic Software;giorgia;121;Phone
-Microsoft Software Support::Usage request - Ms Office;petros;0;Email
-Specialized software::Usage request;petros;12;Email
-Specialized Hardware::Malfunction;petros;63;Email
-Specialized software::New installation;petros;61;Email
-IS-Peripheral Support::Usage request;petros;49;Email
-IS-Wireless Network::Usage request;petros;13;Email
-Laptop Support::Usage request;petros;18;Email
-Desktop Support::Usage request;petros;31;Email
-Microsoft Software Support::New sw version - Ms Office;petros;241;Email
-IS-Multimedia Equipment::Usage request - Multimedia equipment;giorgia;241;Email
-IS-Central Labs::Usage request;petros;34;Email
-Specialized software::Usage request;petros;19;Email
-IS-Identity Management - IDM::Account performance degradation;giorgia;25;Email
-Desktop Support;giorgia;241;Email
-IS-e-Mail::Usage request;giorgia;162;Application
-IS-Peripheral Support::Usage request;giorgia;81;SelfAssigned
-Specialized software::Usage request;giorgia;136;Email
-IS-Network Access::Performance degradation - Local Network access;giorgia;16;Email
-IS-Printer support::Usage request;petros;21;Email
-IS-Printer support;petros;15;Email
-IS-Data Security and Protection::Phishing;petros;6;Email
-Obsolete equipment Management;petros;31;Email
-Tender management::Delivery;petros;31;Email
-Tender management::Orders;giorgia;30;Email
-Laptop Support::New Laptop;giorgia;91;Email
-IS-e-Mail::Usage request;giorgia;30;Email
-IS-Peripheral Support::Usage request;giorgia;15;Email
-Macintosh::Personalized (user) setup iOs;giorgia;30;Email
-Specialized software::Usage request;giorgia;30;Email
-IS-Peripheral Support::Usage request;giorgia;60;Email
-Desktop Support::Personalized (user) setup;giorgia;30;Email
-IS-Identity Management - IDM::Account performance degradation;giorgia;20;Phone
-IS-Strategic Software::Usage request-Ms Office 365;petros;10;Email
-Desktop Support::Usage request;kallis;30;Email
-Specialized software::Usage request;petros;10;Email
-IS-Wireless Network::Usage request;petros;45;Email
-IS-Peripheral Support;kallis;30;Email
-Desktop Support::Usage request;petros;300;OnSiteVisit
-Desktop Support;petros;62;Email
-IS-e-Mail::Usage request;petros;301;Email
-Desktop Support;giorgia;32;Phone
-IS-Incident Management System::Usage request;giorgia;30;Email
-Laptop Support::Usage request;giorgia;120;Email
-Desktop Support::Performance degradation;giorgia;64;Email
-Desktop Support::Performance degradation;kallis;121;Email
-IS-e-Mail::Usage request;kallis;46;Email
-IS-Backup::CrashPlan usage request;kallis;151;Email
-Desktop Support::Usage request;kallis;3001;Email
-IS-Strategic OS-Software-Systems::Personalized setup - Active Directory;kallis;181;Email
-Tender management::Document preparation;kallis;31;Email
-AS-SAP;kallis;61;Email
-Specialized software::Usage request;kallis;122;Email
-Specialized software::Usage request;kallis;32;Email
-IS-Printer support::Usage request;petros;47;Email
-Laptop Support::Usage request;giorgia;60;Email
-IS-Tele-collaboration & synchronous education::Usage request;giorgia;45;Email
-IS-Tele-collaboration & synchronous education::Usage request;petros;20;Email
-Obsolete equipment Management;petros;30;Email
-Specialized software::Usage request;giorgia;30;Email
-Laptop Support::Usage request;giorgia;121;Email
-IS-Wireless Network::User connection;giorgia;30;Email
-Non-strategic Software;giorgia;154;Email
-IS-Peripheral Support::DLP malfunction;giorgia;30;Email
-Tender management::Delivery;giorgia;30;Email
-IS-Multimedia Equipment::Usage request - Audiovisual equipment;giorgia;30;Email
-Tender management::Needs gathering;giorgia;30;Email
-Tender management::Payments Tracking;giorgia;60;Email
-IS-Electronic Storage::Usage request;giorgia;30;Email
-Desktop Support::Usage request;kallis;50;Email
-IS-Wireless Network::Usage request;kallis;32;Email
-IS-Identity Management - IDM::New account;kallis;30;Email
-Desktop Support::Usage request;giorgia;15;Email
-Specialized software::Usage request;petros;128;Email
-IS-Wireless Network::Usage request;petros;10;Email
-Specialized software::New installation;petros;303;OnSiteVisit
-Desktop Support::Usage request;petros;3;Email
-Specialized software::New installation;petros;3;Email
-Desktop Support::New Desktop;giorgia;60;Email
-Desktop Support::Usage request;giorgia;30;Email
-IS-Peripheral Support::Usage request;giorgia;15;Email
-Desktop Support::Display Malfunction;giorgia;16;OnSiteVisit
-IS-e-Mail::Usage request;giorgia;46;Email
-IS-Peripheral Support::Usage request;giorgia;30;Email
-Microsoft Software Support::Performance degradation - Ms Office;giorgia;30;Email
-Tender management::Payments Tracking;giorgia;45;Email
-IS-Identity Management - IDM::Account performance degradation;giorgia;18;Email
-IS-Peripheral Support::Usage request;giorgia;121;Email
-Tender management::Delivery;giorgia;2;Email
-Specialized software::Usage request;giorgia;45;Email
-Laptop Support::Usage request;petros;45;Email
-IS-Peripheral Support::Usage request;petros;15;Email
-Specialized software::Usage request;petros;46;Email
-IS-Printer support::Usage request;petros;95;OnSiteVisit
-IS-Identity Management - IDM::New account;giorgia;1;Email
-IS-Identity Management - IDM::New account;giorgia;1;Email
-Laptop Support::Usage request;giorgia;60;Email
-Laptop Support::Usage request;giorgia;362;Email
-IS-Identity Management - IDM::New account;giorgia;31;Email
-Tender management::Orders;giorgia;3;Email
-Tender management::Delivery;giorgia;120;Email
-IS-Wireless Network::Usage request;petros;10;Email
-Specialized software::Usage request;petros;46;Email
-IS-Tools/Software provision::Usage request;kallis;126;Email
-Desktop Support;kallis;37;Email
-IS-Data Security and Protection::External Hacking;kallis;37;Email
-AS-Database Management::New Schema;kallis;187;Email
-Desktop Support;kallis;22;Email
-Desktop Support::Hard Disk malfunction;kallis;487;Email
-IS-e-Mail::Usage request;kallis;32;Email
-IS-Peripheral Support::Usage request;giorgia;212;SelfAssigned
-Laptop Support::Usage request;giorgia;316;Email
-IS-Peripheral Support::Usage request;giorgia;30;Email
-Specialized software::Usage request;giorgia;15;Email
-IS-Wireless Network::Usage request;giorgia;15;Email
-Laptop Support::New Laptop;giorgia;180;Email
-Desktop Support;kallis;37;Email
-Tender management::Payments Tracking;giorgia;120;Email
-Laptop Support::Usage request;giorgia;1200;Email
-Tender management::Orders;giorgia;20;Email
-IS-Data Security and Protection::Phishing;petros;12;Email
-IS-Remote Access (VPN)::Usage request;petros;34;Email
-IS-e-Mail::Usage request;kallis;75;Email
-AS-Content Management System::New Profile;kallis;21;Email
-IS-Identity Management - IDM::Usage request;petros;5;Email
-Desktop Support::Keyboard Malfunction;giorgia;5;Email
-IS-Tele-collaboration & synchronous education::Usage request;giorgia;20;Email
-Laptop Support::Usage request;giorgia;30;Email
-Laptop Support::Usage request;giorgia;45;Email
-Microsoft Software Support::Usage request - MS Windows;giorgia;20;Email
-Microsoft Software Support::Usage request - Ms Office;giorgia;30;Email
-IS-Printer support::Usage request;giorgia;30;Email
-IS-Strategic Software::New software license;giorgia;30;Email
-IS-Data Security and Protection::Phishing;giorgia;1;Email
-IS-Accounts::Password change;petros;15;Email
-IS-e-Mail::Usage request;petros;2;Email
-Laptop Support::New Laptop;giorgia;120;Email
-IS-Accounts::New account;petros;10;Email
-Desktop Support::Usage request;petros;30;Email
-IS-Wireless Network::Usage request;giorgia;30;Email
-Laptop Support::New Laptop;petros;31;Email
-IS-Printer support::Usage request;petros;21;Email
-IS-Tele-collaboration & synchronous education::Usage request;kallis;34;Email
-Specialized software::Usage request;kallis;48;Email
-IS-Accounts::Password change;giorgia;23;Email
-IS-Accounts::Password change;giorgia;23;Email
-Desktop Support::Usage request;giorgia;48;Email
-IS-Tools/Software provision;giorgia;63;Email
-IS-Data Security and Protection::Phishing;giorgia;33;Email
-Laptop Support;giorgia;63;Email
-IS-Tools/Software provision::Usage request;giorgia;33;Email
-IS-Identity Management - IDM::New account;giorgia;16;Email
-IS-Strategic OS-Software-Systems::Usage request - Active Directory;giorgia;123;Email
-Desktop Support::Performance degradation;giorgia;45;Email
-AS-E-Learning::Usage request;giorgia;17;Email
-AS-Financial Management System::Usage request;giorgia;18;Email
-Desktop Support::Usage request;giorgia;19;Email
-Microsoft Software Support::Usage request - MS Windows;giorgia;15;Email
-Desktop Support::Keyboard Malfunction;giorgia;15;Email
-IS-Accounts::Password change;giorgia;45;Email
-IS-Backup::New computer - CrashPlan;giorgia;20;Email
-IS-Backup::New computer - CrashPlan;giorgia;20;Email
-IS-Backup::New computer - CrashPlan;giorgia;20;Email
-IS-Backup::New computer - CrashPlan;giorgia;20;Email
-Laptop Support::Personalized (user) setup;giorgia;60;Email
-Laptop Support::Personalized (user) setup;giorgia;240;Email
-Desktop Support::New Desktop;giorgia;180;Email
-IS-Printer support::Usage request;petros;16;Email
-IS-Data Security and Protection::Phishing;petros;16;Email
-IS-Electronic Storage::Usage request;petros;15;Email
-IS-Peripheral Support::Usage request;giorgia;30;Email
-Obsolete equipment Management;giorgia;30;Email
-Obsolete equipment Management;giorgia;30;Email
-Specialized software::Usage request;giorgia;30;Email
-Laptop Support::Usage request;giorgia;30;Email
-Specialized software::Usage request;kallis;31;Email
-Microsoft Software Support::Usage request - Ms Office;kallis;31;Email
-IS-Printer support::Usage request;kallis;30;Email
-Laptop Support::Usage request;giorgia;60;Email
-IS-e-Mail::Usage request;kallis;81;Email
-IS-Printer support::Usage request;kallis;31;Email
-IS-Printer support::Usage request;kallis;31;Email
-IS-Printer support::Usage request;kallis;11;Email
-IS-Network Access::Performance degradation - Local Network access;petros;37;Email
-IS-Strategic OS-Software-Systems::Usage request - MS Windows;kallis;30;Email
-IS-Fax::Usage request;petros;5;Email
-Laptop Support::Usage request;giorgia;31;Email
-Desktop Support::Keyboard Malfunction;giorgia;25;Email
-IS-Wireless Network::Usage request;giorgia;15;Email
-Laptop Support::Usage request;giorgia;31;Email
-Laptop Support::Usage request;petros;11;Phone
-IS-Printer support::Usage request;petros;12;Email
-IS-Identity Management - IDM::Usage request;petros;27;Email
-Laptop Support;petros;126;Email
-Laptop Support;petros;21;Email
-Laptop Support::Usage request;petros;17;Email
-Specialized software::Usage request;petros;54;Email
-IS-Strategic Software::Usage request-Ms Office 365;giorgia;15;Email
-IS-Backup::CrashPlan usage request;giorgia;30;Email
-Specialized software::Usage request;giorgia;61;Email
-Specialized software::Usage request;giorgia;181;Email
-IS-Backup::CrashPlan usage request;giorgia;31;Email
-Specialized software::New installation;giorgia;31;Email
-Specialized software::New installation;giorgia;181;Email
-Specialized software::Usage request;giorgia;61;Email
-Specialized software::Usage request;giorgia;241;Email
-Specialized software::Usage request;giorgia;30;Email
-IS-Peripheral Support::Usage request;giorgia;61;Email
-Specialized software::New installation;giorgia;241;Email
-Specialized software::New installation;giorgia;241;Email
-Specialized software::New installation;giorgia;241;Email
-Specialized software::Usage request;giorgia;31;Email
-Specialized software::Usage request;giorgia;271;Email
-Obsolete equipment Management;giorgia;62;Email
-Specialized software::Usage request;giorgia;2;Email
-Laptop Support::New Laptop;giorgia;32;Email
-IS-Backup::CrashPlan usage request;kallis;10;Email
-Laptop Support::Usage request;kallis;31;Email
-IS-Network Access::Performance degradation - Local Network access;kallis;19;Phone
-IS-Printer support::Usage request;giorgia;32;Email
-Specialized software::Usage request;giorgia;241;Email
-Specialized software::Usage request;giorgia;151;Email
-Specialized software::Usage request;giorgia;181;Email
-IS-Multimedia Equipment::Usage request - Audiovisual equipment;giorgia;31;Email
-Laptop Support;kallis;120;Phone
-IS-Central Labs::Pc Malfunction;kallis;15;Email
-Desktop Support::Usage request;kallis;180;Email
-IS-Printer support::Usage request;kallis;30;Email
-IS-Strategic OS-Software-Systems::Usage request - MS Office;kallis;46;OnSiteVisit
-IS-Backup::CrashPlan usage request;giorgia;21;Email
-Laptop Support::Usage request;giorgia;121;Email
-Laptop Support::Usage request;giorgia;151;Email
-IS-e-Mail::Usage request;giorgia;31;Email
-Laptop Support::Usage request;giorgia;61;Email
-IS-Data Security and Protection::Phishing;giorgia;31;Phone
-IS-Mailing Lists::Usage request;petros;8;Email
-Specialized software::Usage request;kallis;23;Email
-Specialized software::New installation;petros;29;Email
-Desktop Support::Usage request;petros;314;Email
-IS-Strategic OS-Software-Systems::Usage request - MS Windows;petros;72;Email
-IS-Remote Access (VPN)::Usage request;petros;72;Email
-Specialized software::New installation;kallis;63;Email
-IS-Printer support::Usage request;petros;41;Email
-IS-Remote Access (VPN)::Usage request;petros;22;Email
-Laptop Support::Usage request;giorgia;121;Email
-IS-Peripheral Support::Usage request;giorgia;61;Email
-Laptop Support::Usage request;giorgia;181;Email
-Laptop Support::Usage request;giorgia;121;Email
-IS-Strategic OS-Software-Systems::Usage request - MS Office;giorgia;27;Email
-Laptop Support::Usage request;giorgia;121;Email
-Macintosh::New sw version;giorgia;15;Email
-Specialized software::Usage request;giorgia;30;Email
-IS-Peripheral Support;giorgia;30;Email
-Desktop Support::Usage request;giorgia;30;Email
-Laptop Support::Usage request;giorgia;30;Email
-IS-Printer support::Usage request;giorgia;30;Email
-IS-Identity Management - IDM::Account performance degradation;petros;10;Email
-Desktop Support::Usage request;giorgia;60;Email
-Laptop Support::Usage request;giorgia;15;Email
-Laptop Support::Usage request;giorgia;30;Email
-Obsolete equipment Management;giorgia;30;Email
-Laptop Support::Usage request;giorgia;46;Email
-Laptop Support::Usage request;giorgia;60;Email
-Desktop Support::New Desktop;giorgia;240;Email
-Laptop Support::Usage request;giorgia;180;Email
-Laptop Support::Usage request;giorgia;120;Email
-Specialized software::Usage request;giorgia;20;Email
-Obsolete equipment Management;giorgia;150;Email
-Laptop Support::Usage request;giorgia;180;Email
-Desktop Support::New Desktop;giorgia;240;Email
-Specialized software::Usage request;giorgia;60;Email
-Laptop Support::Usage request;giorgia;30;Email
-Laptop Support::Usage request;giorgia;63;Email
-IS-Strategic Software::Usage request-Ms Office 365;giorgia;18;Email
-Specialized software::Usage request;giorgia;30;Email
-IS-Printer support;giorgia;31;Email
-Specialized software::Usage request;giorgia;20;Email
-IS-Electronic Storage::Usage request;giorgia;20;Email
-Desktop Support::Personalized (user) setup;giorgia;30;Email
-IS-Printer support::Usage request;petros;21;Email
-Desktop Support;giorgia;181;Email
-Desktop Support::Usage request;giorgia;61;Email
-IS-Backup::CrashPlan usage request;giorgia;61;Email
-IS-Backup::CrashPlan usage request;giorgia;61;Email
-IS-Audiovisual Material Production::Video recording;giorgia;90;Email
-IS-Electronic Storage::Usage request;giorgia;15;Email
-IS-Multimedia Equipment::Usage request - Multimedia equipment;giorgia;60;Email
-Laptop Support::Usage request;giorgia;63;Email
-Desktop Support::Usage request;giorgia;31;Email
-Laptop Support;kallis;33;Email
-Desktop Support;kallis;611;Email
-Laptop Support::Usage request;giorgia;180;Email
-Microsoft Software Support::Personalized (user) setup - Ms Windows;giorgia;71;Email
-IS-Accounts::Usage request;giorgia;15;Email
-Non-strategic Software::Usage request;giorgia;15;Email
-IS-Printer support;giorgia;3;Email
-IS-Backup::CrashPlan usage request;giorgia;62;Email
-IS-Wireless Network::Usage request;petros;17;Email
-Laptop Support::Usage request;giorgia;15;Email
-Microsoft Software Support::Usage request - Ms Office;petros;5;Email
-Laptop Support;petros;62;Email
-Macintosh::Usage request;petros;94;OnSiteVisit
-St.Wel-Banner::Web Support;petros;37;Email
-Specialized Hardware::Usage request;giorgia;31;Email
-Specialized software::Usage request;giorgia;17;Email
-Obsolete equipment Management;giorgia;181;Email
-Laptop Support::Usage request;giorgia;14;Email
-Desktop Support::Usage request;giorgia;14;Email
-IS-Printer support;giorgia;16;Email
-IS-Remote Access (VPN)::New computer (installation);giorgia;11;Email
-IS-Tele-collaboration & synchronous education::Usage request;giorgia;31;Email
-Specialized software::Usage request;giorgia;16;Email
-Microsoft Software Support::Usage request - MS Windows;giorgia;30;Email
-Laptop Support::Usage request;petros;31;Email
-Laptop Support::Usage request;petros;32;Email
-IS-Fax::Usage request;petros;18;Email
-Laptop Support::Usage request;petros;20;Phone
-IS-Backup::CrashPlan usage request;petros;23;Email
-IS-Telephony::Usage request;petros;68;Email
-Laptop Support::Personalized (user) setup;petros;54;Email
-Specialized software::Usage request;petros;71;Email
-Specialized software::Usage request;giorgia;32;Email
-Specialized software::New installation;giorgia;37;Email
-IS-Strategic Software::Usage request-Ms Office 365;giorgia;30;Email
-IS-Remote Access (VPN)::Client sw malfunction;giorgia;11;Phone
-AS-ERMIS::Usage request;kallis;60;Email
-IS-Printer support::Usage request;kallis;20;Email
-IS-Strategic Software::Usage request-Ms Office 365;kallis;30;Email
-IS-Strategic Software::Usage request-Ms Office 365;kallis;30;Email
-IS-Telephony::Application connection;kallis;122;Phone
-AS-E-Learning::Usage request;kallis;31;Email
-IS-Remote Access (VPN)::Usage request;kallis;46;Email
-Microsoft Software Support::Usage request - Ms Office;kallis;62;Email
-Laptop Support::Usage request;kallis;47;Phone
-IS-Electronic Storage::Usage request;kallis;47;Email
-Microsoft Software Support::Usage request - MS Windows;petros;10;Email
-IS-Remote Access (VPN)::Usage request;petros;16;Email
-Specialized software::Usage request;kallis;31;Email
-IS-Remote Access (VPN)::Usage request;kallis;31;Email
-IS-Strategic Software::Usage request-Ms Office 365;kallis;61;Email
-IS-Strategic Software::Usage request-Ms Office 365;kallis;2;Email
-IS-Remote Access (VPN)::New computer (installation);kallis;2;Email
-Specialized software::New installation;kallis;2;Email
-Laptop Support;kallis;49;Email
-Laptop Support;kallis;64;Email
-Tender management::Needs gathering;kallis;56;Email
-Laptop Support;kallis;304;Email
-IS-Printer support::Usage request;kallis;25;Email
-IS-Fax::Usage request;kallis;35;Email
-Laptop Support::Usage request;kallis;37;Email
-IS-Peripheral Support::Usage request;kallis;48;Email
-Desktop Support::Motherboard malfunction;kallis;616;Email
-Specialized software::Usage request;giorgia;249;Email
-IS-Strategic Software::Usage request-Ms Office 365;kallis;30;Email
-IS-Telephony::Application connection;kallis;20;Email
-Laptop Support::Usage request;petros;10;Phone
-IS-Data Security and Protection::Phishing;petros;16;Email
-Tender management::Orders;kallis;15;Email
-IS-Strategic OS-Software-Systems::Personalized setup - Active Directory;kallis;20;Email
-Laptop Support::Usage request;kallis;45;Email
-Specialized software::Usage request;petros;30;Email
-Microsoft Software Support::Usage request - Ms Office;petros;49;Email
-Laptop Support::Usage request;petros;66;Phone
-Laptop Support;giorgia;75;Email
-IS-Remote Access (VPN);giorgia;30;Email
-St.Wel-Banner::Web Support;petros;10;Phone
-IS-Strategic Software::Usage request-Ms Office 365;petros;14;Email
-Microsoft Software Support::Usage request - Ms Office;giorgia;30;Email
-IS-Strategic OS-Software-Systems::Personalized setup - Active Directory;giorgia;30;Email
-Microsoft Software Support::Usage request - Ms Office;giorgia;30;Email
-IS-Remote Access (VPN)::Usage request;giorgia;10;Email
-IS-Videoconference::Usage request;giorgia;31;Email
-IS-Strategic Software::Usage request-Ms Office 365;kallis;31;Email
-Tender management::Orders;kallis;31;Email
-IS-Identity Management - IDM::New account;kallis;32;Email
-Desktop Support::Usage request;kallis;130;Email
-Laptop Support::New Laptop;giorgia;60;Email
-Laptop Support::Usage request;giorgia;60;Email
-IS-Strategic Software::Usage request-Ms Office 365;giorgia;16;Email
-Laptop Support::Usage request;giorgia;15;Email
-IS-Strategic Software::Usage request-Ms Office 365;giorgia;32;Email
-Specialized software::Usage request;giorgia;23;Email
-Laptop Support;giorgia;16;Email
-Laptop Support;giorgia;16;Email
-IS-Strategic Software::Usage request-Ms Office 365;giorgia;15;Email
-Laptop Support::Usage request;giorgia;60;Email
-IS-Remote Access (VPN)::Usage request;giorgia;15;Email
-St.Wel-Banner::Web Support;petros;30;Email
-Laptop Support::Usage request;giorgia;30;Email
-IS-Strategic Software::Usage request-Ms Office 365;giorgia;46;Email
-IS-Backup::CrashPlan usage request;giorgia;29;Email
-IS-Identity Management - IDM::New account;giorgia;15;Email
-IS-Strategic Software::Usage request-Ms Office 365;giorgia;15;Email
-IS-Strategic Software::Usage request-Ms Office 365;giorgia;15;Email
-IS-Remote Access (VPN)::Usage request;giorgia;31;Email
-IS-Strategic Software::Usage request-Ms Office 365;giorgia;10;Email
-IS-Strategic Software::Usage request-Ms Office 365;giorgia;60;Email
-IS-e-Mail;giorgia;75;Email
-IS-Strategic Software::Usage request-Ms Office 365;giorgia;15;Email
-IS-Strategic Software::Usage request-Ms Office 365;giorgia;1;Email
-Microsoft Software Support::Usage request - Ms Office;giorgia;30;Email
-Specialized software::Usage request;giorgia;15;Email
-Microsoft Software Support::Usage request - MS Windows;giorgia;15;Email
-IS-Strategic OS-Software-Systems::Usage request - MS Windows;giorgia;25;Email
-Obsolete equipment Management;giorgia;501;SelfAssigned
-Desktop Support::Display Malfunction;giorgia;30;Email
-Laptop Support::Usage request;giorgia;11;Email
-Laptop Support::Usage request;giorgia;21;Email
-IS-Accounts;giorgia;16;SelfAssigned
-IS-Videoconference::Usage request;giorgia;5;Email
-Laptop Support::Usage request;giorgia;17;Email
-Laptop Support;giorgia;1;Email
-Microsoft Software Support::Usage request - MS Windows;giorgia;16;Email
-Microsoft Software Support::Usage request - Ms Office;giorgia;22;Email
-IS-Telephony::Usage request;giorgia;155;Email
-Specialized software::Usage request;giorgia;61;Email
-Desktop Support::Keyboard Malfunction;giorgia;32;Email
-Obsolete equipment Management;giorgia;181;Email
-Laptop Support::New Laptop;giorgia;300;Email
-IS-Antispam::Usage request;giorgia;10;Email
-Specialized software::Usage request;giorgia;135;Email
-Macintosh;giorgia;10;Email
-Desktop Support::New sw version;giorgia;10;Email
-Specialized software::Usage request;giorgia;78;Email
-Specialized software::Usage request;giorgia;61;Email
-IS-Printer support;giorgia;5;Email
-Laptop Support::Usage request;giorgia;181;Email
-IS-Incident Management System::Usage request;petros;91;Email
-IS-Printer support::Usage request;petros;20;Email
-IS-Accounts::Performance degradation;giorgia;15;Email
-IS-Accounts::Account removal;giorgia;30;Email
-Laptop Support::Usage request;giorgia;16;Email
-IS-Endpoint Protection::New computer (installation);giorgia;10;Email
-Laptop Support;giorgia;45;Email
-Laptop Support;giorgia;90;Email
-Specialized Hardware;giorgia;45;Email
-Laptop Support;giorgia;30;Email
-Laptop Support;giorgia;60;Email
-Desktop Support;giorgia;30;Email
-Specialized software::Usage request;giorgia;31;Email
-IS-Strategic OS-Software-Systems::Usage request - MS Office;giorgia;51;Email
-Macintosh;giorgia;45;Email
-IS-Network Access::New network point;giorgia;15;Email
-Laptop Support;giorgia;75;Email
-Laptop Support::Usage request;giorgia;181;Email
-IS-Identity Management - IDM::Usage request;giorgia;15;Email
-Obsolete equipment Management;giorgia;40;Email
-Laptop Support::Power Supply malfunction;giorgia;240;Email
-IS-Accounts::Usage request;giorgia;15;Email
-IS-Identity Management - IDM::Usage request;petros;30;Email
-Laptop Support::Usage request;petros;11;Email
-AS-E-Learning::Usage request;petros;20;Email
-Tender management::Payments Tracking;giorgia;30;Email
-Specialized software;giorgia;16;Email
-Specialized Hardware::Personalised setup;giorgia;66;Email
-Laptop Support::New Laptop;petros;181;Email
-Specialized software::Usage request;giorgia;77;Email
-IS-Strategic Software::Usage request-Ms Office 365;giorgia;17;Email
-Laptop Support;giorgia;16;Email
-IS-Printer support::Toner malfunction;giorgia;15;Email
-IS-Strategic Software::Usage request-Ms Office 365;giorgia;32;Email
-IS-Remote Access (VPN)::Usage request;giorgia;21;Email
-IS-Printer support::Usage request;petros;15;Email
-Specialized software::Usage request;giorgia;16;Email
-IS-Printer support::Usage request;giorgia;8;Email
-IS-Remote Access (VPN)::Usage request;giorgia;16;Email
-Laptop Support::Usage request;giorgia;30;Email
-Laptop Support;giorgia;30;Email
-Laptop Support::Usage request;giorgia;1;Email
-Specialized software::New installation;petros;19;Email
-Laptop Support::Usage request;petros;121;Email
-IS-Peripheral Support::Usage request;petros;36;Email
-Microsoft Software Support::Usage request - MS Windows;petros;46;OnSiteVisit
-Desktop Support::Keyboard Malfunction;giorgia;45;Email
-Laptop Support;giorgia;45;Email
-Macintosh;giorgia;39;Email
-Specialized software::Usage request;giorgia;32;Email
-Laptop Support::Usage request;giorgia;11;Email
-IS-Printer support::Usage request;petros;31;Email
-Laptop Support::Usage request;petros;31;Phone
-IS-Strategic Software::Usage request-Ms Office 365;petros;46;Email
-Laptop Support::Usage request;giorgia;45;Email
-Laptop Support::Usage request;giorgia;50;Email
-IS-Remote Access (VPN);giorgia;30;Email
-Laptop Support;giorgia;31;Email
-Specialized software::Usage request;giorgia;70;Email
-IS-e-Mail::Mail Office365;giorgia;210;Email
-IS-Identity Management - IDM::Usage request;kallis;30;Email
-IS-Accounts::New account;kallis;21;Email
-IS-Multimedia Applications::Usage request;kallis;124;Email
-Tender management::Orders;kallis;34;Email
-IS-Identity Management - IDM::New account;giorgia;16;Email
-Specialized software::Usage request;giorgia;15;Email
-Laptop Support;giorgia;16;Email
-Laptop Support;giorgia;45;Email
-IS-Strategic Software::New software license;giorgia;10;Email
-Specialized software::Usage request;kallis;15;Email
-Laptop Support::Usage request;giorgia;80;Email
-IS-Tele-collaboration & synchronous education::Usage request;petros;15;Email
-IS-Fax::Usage request;petros;10;Email
-Desktop Support::Usage request;kallis;149;Email
-Laptop Support;giorgia;15;Email
-AS-UCY Portal::Usage request;kallis;20;Email
-Specialized software::Usage request;kallis;180;Email
-Specialized software::New installation;giorgia;90;Email
-IS-e-Mail::Usage request;giorgia;11;Email
-Laptop Support;giorgia;15;Email
-AS-Content Management System::Usage request;kallis;15;Email
-St.Wel-Banner::Statistics;petros;20;Email
-Laptop Support;giorgia;180;Email
-Laptop Support;giorgia;240;Email
-Laptop Support;giorgia;60;Email
-IS-Strategic OS-Software-Systems::Usage request - Active Directory;giorgia;60;Email
-AS-UCY Portal::Usage request;giorgia;20;Email
-Laptop Support;giorgia;15;Email
-Specialized software::Usage request;giorgia;60;Email
-Laptop Support::New Laptop;petros;72;Phone
-Desktop Support;petros;120;Email
-Desktop Support::Performance degradation;petros;321;OnSiteVisit
-IS-Remote Access (VPN)::Usage request;giorgia;25;Email
-Macintosh::Personalized (user) setup iOs;giorgia;75;Email
-IS-Strategic Software::New software license;giorgia;60;Email
-Specialized software::Usage request;giorgia;45;Email
-IS-e-Mail::Usage request;petros;20;Email
-IS-Strategic OS-Software-Systems::Usage request - MS Windows;petros;55;Phone
-IS-Strategic Software::New software license;petros;21;Email
-IS-Strategic Software::Usage request-Ms Office 365;petros;46;Email
-Laptop Support;giorgia;30;Email
-Specialized software::New installation;giorgia;63;Email
-Non-strategic Software;giorgia;20;Email
-Desktop Support;giorgia;720;Email
-Desktop Support;giorgia;960;Email
-IS-Accounts::Usage request;petros;10;Email
-Laptop Support::Usage request;giorgia;46;Email
-Specialized software::New installation;giorgia;30;Email
-Laptop Support;giorgia;90;Email
-Laptop Support;giorgia;15;Email
-Desktop Support;giorgia;360;Email
-Desktop Support;giorgia;540;Email
-IS-Identity Management - IDM::New account;petros;15;Email
-Laptop Support::Usage request;petros;15;Email
-Laptop Support::Usage request;petros;62;Email
-Laptop Support::Usage request;giorgia;60;Email
-Non-strategic Software;giorgia;30;Email
-Desktop Support;giorgia;180;Email
-IS-Digital video broadcasting::Real-time video streaming;petros;12;Phone
-Laptop Support::Usage request;giorgia;90;Email
-IS-Identity Management - IDM::New account;giorgia;15;Email
-IS-Identity Management - IDM::New account;giorgia;15;Email
-IS-Strategic OS-Software-Systems::Usage request - Active Directory;petros;15;Email
-IS-Remote Access (VPN)::Usage request;petros;15;Email
-IS-Printer support::Usage request;petros;5;Email
-Desktop Support;giorgia;361;Email
-IS-Strategic OS-Software-Systems::Usage request - MS Windows;petros;22;Email
-IS-Identity Management - IDM::New account;petros;10;Email
-IS-e-Mail::Usage request;giorgia;30;Email
-IS-Peripheral Support;giorgia;32;OnSiteVisit
-IS-Wireless Network::Usage request;petros;45;Phone
-Laptop Support;giorgia;15;Email
-Macintosh;giorgia;15;Email
-IS-Printer support;giorgia;30;Email
-Non-strategic Software;giorgia;16;Email
-IS-Printer support;giorgia;30;Email
-Desktop Support;giorgia;180;Email
-Laptop Support;giorgia;31;Email
-Specialized software::Usage request;giorgia;30;Email
-IS-Strategic Software::Usage request-Ms Office 365;giorgia;60;Email
-IS-Printer support::Usage request;petros;71;Phone
-IS-Peripheral Support::DLP malfunction;giorgia;120;Email
-IS-Accounts::New account;giorgia;30;Email
-IS-Accounts::New account;giorgia;11;Phone
-IS-Strategic Software::Usage request-Ms Office 365;petros;5;Email
-Laptop Support;giorgia;10;Email
-Laptop Support;giorgia;1;Email
-IS-Accounts;giorgia;15;Email
-IS-Accounts;giorgia;15;Email
-IS-Accounts;giorgia;15;Email
-IS-Accounts;giorgia;75;Email
-IS-Accounts;giorgia;55;Email
-IS-Identity Management - IDM::New account;giorgia;30;Email
-IS-Accounts;giorgia;70;Email
-Desktop Support;giorgia;61;Email
-Laptop Support;petros;15;Email
-IS-Data Security and Protection::Phishing;petros;30;Email
-IS-Data Security and Protection::Phishing;petros;1;Email
-Laptop Support;petros;21;Phone
-Laptop Support;giorgia;25;Email
-IS-Accounts;giorgia;60;Email
-IS-Accounts;giorgia;2;Email
-Laptop Support::Usage request;giorgia;41;Email
-IS-Identity Management - IDM::New account;giorgia;30;Email
-IS-Accounts;giorgia;30;Email
-IS-Identity Management - IDM::New account;giorgia;30;Email
-Laptop Support;petros;26;Email
-Laptop Support;kallis;90;Email
-Laptop Support::Usage request;petros;31;Phone
-IS-Identity Management - IDM::New account;petros;20;Email
-IS-Identity Management - IDM::New account;petros;21;Email
-IS-Remote Access (VPN)::Usage request;petros;10;Email
-Microsoft Software Support::Usage request - Ms Office;petros;5;Email
-IS-Identity Management - IDM::New account;petros;5;Email
-Laptop Support::Usage request;petros;180;Email
-Laptop Support::Usage request;kallis;66;OnSiteVisit
-IS-e-Mail;petros;11;Email
-Specialized software::New installation;petros;16;Email
-IS-Antispam::Usage request;petros;15;Email
-Laptop Support::Usage request;kallis;46;Email
-IS-Printer support::Usage request;kallis;30;Email
-Microsoft Software Support::Usage request - MS Windows;kallis;61;Email
-Laptop Support;kallis;61;Email
-Laptop Support::Usage request;kallis;32;Email
-Desktop Support;kallis;67;Email
-IS-Printer support::Usage request;petros;79;Phone
-Laptop Support::Usage request;petros;51;Phone
-Laptop Support;petros;128;OnSiteVisit
-Macintosh::Usage request;petros;27;Phone
-IS-Remote Access (VPN)::Usage request;petros;36;Email
-IS-Remote Access (VPN)::Usage request;petros;16;Email
-IS-Remote Access (VPN)::Usage request;petros;48;Email
-IS-e-Mail::Usage request;petros;30;Phone
-Laptop Support::Usage request;petros;41;Email
-IS-Strategic OS-Software-Systems::Personalized setup - Active Directory;petros;25;Email
-IS-Strategic Software::Usage request-Ms Office 365;petros;27;Email
-Laptop Support;petros;52;Phone
-Laptop Support::Usage request;petros;39;Email
-IS-e-Mail::Usage request;petros;28;Email
-IS-Videoconference::Usage request;petros;30;Email
-IS-Strategic OS-Software-Systems::Usage request - MS Windows;petros;41;Email
-Specialized software::Usage request;petros;46;Phone
-AS-Application Server Management;petros;157;Email
-Desktop Support::Monitor malfunction;petros;150;Email
-IS-Endpoint Protection::Usage request;petros;25;Email
-Laptop Support::Usage request;petros;19;Email
-IS-Telephony::Application connection;petros;190;Email
-IS-Perimeter Network Security::Access to Network resources;petros;75;Email
-IS-Electronic Storage::Usage request;petros;75;Email
-IS-e-Mail::Usage request;petros;195;Phone
-IS-Strategic OS-Software-Systems::Personalized setup - Active Directory;petros;30;Email
-Laptop Support::Usage request;petros;136;Email
-IS-Electronic Storage::Usage request;petros;31;Email
-Laptop Support::Usage request;petros;20;Email
-Laptop Support::Usage request;petros;199;Email
-Desktop Support::Display Malfunction;petros;50;Email
-Microsoft Software Support::Usage request - Ms Office;petros;20;Phone
-IS-e-Mail::Usage request;petros;32;Email
-Laptop Support::Usage request;root@localhost;10;Email
-IS-Network Access::Performance degradation - Local Network access;root@localhost;10;Email
-Tender management::Payments Tracking;kallis;32;Email
-Specialized software::Usage request;kallis;33;Email
-IS-Identity Management - IDM::New account;giorgia;15;Email
+Service,Agent,Time,Medium
+Laptop Support,giorgia,120,Phone
+Desktop Support::Personalized (user) setup,giorgia,241,Phone
+Desktop Support::Personalized (user) setup,giorgia,181,Phone
+IS-Accounts::New account,giorgia,60,Email
+IS-Multimedia Equipment::Usage request - Multimedia equipment,giorgia,20,Phone
+IS-Multimedia Equipment::Usage request - Multimedia equipment,giorgia,30,Email
+IS-Accounts::New account,giorgia,30,Email
+Laptop Support::Usage request,giorgia,30,Phone
+Laptop Support::Power Supply malfunction,giorgia,31,OnSiteVisit
+Laptop Support::Usage request,giorgia,61,Phone
+Laptop Support,giorgia,181,Email
+IS-Accounts::Usage request,giorgia,30,Email
+Non-strategic Software,giorgia,60,Email
+Non-strategic Software,giorgia,15,Phone
+IS-Electronic Storage,giorgia,30,Phone
+IS-Accounts::Usage request,giorgia,40,Email
+IS-Incident Management System::Usage request,petros,3,Email
+Specialized software::New installation,petros,16,Email
+Laptop Support,petros,10,Email
+IS-Strategic Software::Usage request-Ms Office 365,petros,45,Email
+IS-Accounts::Performance degradation,petros,401,Email
+AS-Fixed Assets Management System,giorgia,40,SelfAssigned
+AS-Application Server Management,giorgia,45,SelfAssigned
+Non-strategic Software,giorgia,30,Phone
+IS-Accounts::Locked account,giorgia,30,Email
+IS-Network Access,giorgia,30,Email
+IS-Multimedia Equipment::Usage request - Multimedia equipment,giorgia,30,Phone
+AS-Budget management,giorgia,31,SelfAssigned
+IS-Accounts::New account,giorgia,16,Email
+IS-Incident Management System::Usage request,giorgia,121,Email
+IS-Accounts::Usage request,giorgia,35,OnSiteVisit
+Tender management::Acceptance,giorgia,60,Email
+IS-e-Mail::Mailbox malfunction,giorgia,5,Email
+IS-Wireless Network::Usage request,petros,10,Email
+IS-e-Mail::Mail Office365,petros,90,Email
+Laptop Support::Usage request,giorgia,31,Email
+Specialized software::Usage request,giorgia,180,Email
+Non-strategic Software,giorgia,121,Phone
+Microsoft Software Support::Usage request - Ms Office,petros,0,Email
+Specialized software::Usage request,petros,12,Email
+Specialized Hardware::Malfunction,petros,63,Email
+Specialized software::New installation,petros,61,Email
+IS-Peripheral Support::Usage request,petros,49,Email
+IS-Wireless Network::Usage request,petros,13,Email
+Laptop Support::Usage request,petros,18,Email
+Desktop Support::Usage request,petros,31,Email
+Microsoft Software Support::New sw version - Ms Office,petros,241,Email
+IS-Multimedia Equipment::Usage request - Multimedia equipment,giorgia,241,Email
+IS-Central Labs::Usage request,petros,34,Email
+Specialized software::Usage request,petros,19,Email
+IS-Identity Management - IDM::Account performance degradation,giorgia,25,Email
+Desktop Support,giorgia,241,Email
+IS-e-Mail::Usage request,giorgia,162,Application
+IS-Peripheral Support::Usage request,giorgia,81,SelfAssigned
+Specialized software::Usage request,giorgia,136,Email
+IS-Network Access::Performance degradation - Local Network access,giorgia,16,Email
+IS-Printer support::Usage request,petros,21,Email
+IS-Printer support,petros,15,Email
+IS-Data Security and Protection::Phishing,petros,6,Email
+Obsolete equipment Management,petros,31,Email
+Tender management::Delivery,petros,31,Email
+Tender management::Orders,giorgia,30,Email
+Laptop Support::New Laptop,giorgia,91,Email
+IS-e-Mail::Usage request,giorgia,30,Email
+IS-Peripheral Support::Usage request,giorgia,15,Email
+Macintosh::Personalized (user) setup iOs,giorgia,30,Email
+Specialized software::Usage request,giorgia,30,Email
+IS-Peripheral Support::Usage request,giorgia,60,Email
+Desktop Support::Personalized (user) setup,giorgia,30,Email
+IS-Identity Management - IDM::Account performance degradation,giorgia,20,Phone
+IS-Strategic Software::Usage request-Ms Office 365,petros,10,Email
+Desktop Support::Usage request,kallis,30,Email
+Specialized software::Usage request,petros,10,Email
+IS-Wireless Network::Usage request,petros,45,Email
+IS-Peripheral Support,kallis,30,Email
+Desktop Support::Usage request,petros,300,OnSiteVisit
+Desktop Support,petros,62,Email
+IS-e-Mail::Usage request,petros,301,Email
+Desktop Support,giorgia,32,Phone
+IS-Incident Management System::Usage request,giorgia,30,Email
+Laptop Support::Usage request,giorgia,120,Email
+Desktop Support::Performance degradation,giorgia,64,Email
+Desktop Support::Performance degradation,kallis,121,Email
+IS-e-Mail::Usage request,kallis,46,Email
+IS-Backup::CrashPlan usage request,kallis,151,Email
+Desktop Support::Usage request,kallis,3001,Email
+IS-Strategic OS-Software-Systems::Personalized setup - Active Directory,kallis,181,Email
+Tender management::Document preparation,kallis,31,Email
+AS-SAP,kallis,61,Email
+Specialized software::Usage request,kallis,122,Email
+Specialized software::Usage request,kallis,32,Email
+IS-Printer support::Usage request,petros,47,Email
+Laptop Support::Usage request,giorgia,60,Email
+IS-Tele-collaboration & synchronous education::Usage request,giorgia,45,Email
+IS-Tele-collaboration & synchronous education::Usage request,petros,20,Email
+Obsolete equipment Management,petros,30,Email
+Specialized software::Usage request,giorgia,30,Email
+Laptop Support::Usage request,giorgia,121,Email
+IS-Wireless Network::User connection,giorgia,30,Email
+Non-strategic Software,giorgia,154,Email
+IS-Peripheral Support::DLP malfunction,giorgia,30,Email
+Tender management::Delivery,giorgia,30,Email
+IS-Multimedia Equipment::Usage request - Audiovisual equipment,giorgia,30,Email
+Tender management::Needs gathering,giorgia,30,Email
+Tender management::Payments Tracking,giorgia,60,Email
+IS-Electronic Storage::Usage request,giorgia,30,Email
+Desktop Support::Usage request,kallis,50,Email
+IS-Wireless Network::Usage request,kallis,32,Email
+IS-Identity Management - IDM::New account,kallis,30,Email
+Desktop Support::Usage request,giorgia,15,Email
+Specialized software::Usage request,petros,128,Email
+IS-Wireless Network::Usage request,petros,10,Email
+Specialized software::New installation,petros,303,OnSiteVisit
+Desktop Support::Usage request,petros,3,Email
+Specialized software::New installation,petros,3,Email
+Desktop Support::New Desktop,giorgia,60,Email
+Desktop Support::Usage request,giorgia,30,Email
+IS-Peripheral Support::Usage request,giorgia,15,Email
+Desktop Support::Display Malfunction,giorgia,16,OnSiteVisit
+IS-e-Mail::Usage request,giorgia,46,Email
+IS-Peripheral Support::Usage request,giorgia,30,Email
+Microsoft Software Support::Performance degradation - Ms Office,giorgia,30,Email
+Tender management::Payments Tracking,giorgia,45,Email
+IS-Identity Management - IDM::Account performance degradation,giorgia,18,Email
+IS-Peripheral Support::Usage request,giorgia,121,Email
+Tender management::Delivery,giorgia,2,Email
+Specialized software::Usage request,giorgia,45,Email
+Laptop Support::Usage request,petros,45,Email
+IS-Peripheral Support::Usage request,petros,15,Email
+Specialized software::Usage request,petros,46,Email
+IS-Printer support::Usage request,petros,95,OnSiteVisit
+IS-Identity Management - IDM::New account,giorgia,1,Email
+IS-Identity Management - IDM::New account,giorgia,1,Email
+Laptop Support::Usage request,giorgia,60,Email
+Laptop Support::Usage request,giorgia,362,Email
+IS-Identity Management - IDM::New account,giorgia,31,Email
+Tender management::Orders,giorgia,3,Email
+Tender management::Delivery,giorgia,120,Email
+IS-Wireless Network::Usage request,petros,10,Email
+Specialized software::Usage request,petros,46,Email
+IS-Tools/Software provision::Usage request,kallis,126,Email
+Desktop Support,kallis,37,Email
+IS-Data Security and Protection::External Hacking,kallis,37,Email
+AS-Database Management::New Schema,kallis,187,Email
+Desktop Support,kallis,22,Email
+Desktop Support::Hard Disk malfunction,kallis,487,Email
+IS-e-Mail::Usage request,kallis,32,Email
+IS-Peripheral Support::Usage request,giorgia,212,SelfAssigned
+Laptop Support::Usage request,giorgia,316,Email
+IS-Peripheral Support::Usage request,giorgia,30,Email
+Specialized software::Usage request,giorgia,15,Email
+IS-Wireless Network::Usage request,giorgia,15,Email
+Laptop Support::New Laptop,giorgia,180,Email
+Desktop Support,kallis,37,Email
+Tender management::Payments Tracking,giorgia,120,Email
+Laptop Support::Usage request,giorgia,1200,Email
+Tender management::Orders,giorgia,20,Email
+IS-Data Security and Protection::Phishing,petros,12,Email
+IS-Remote Access (VPN)::Usage request,petros,34,Email
+IS-e-Mail::Usage request,kallis,75,Email
+AS-Content Management System::New Profile,kallis,21,Email
+IS-Identity Management - IDM::Usage request,petros,5,Email
+Desktop Support::Keyboard Malfunction,giorgia,5,Email
+IS-Tele-collaboration & synchronous education::Usage request,giorgia,20,Email
+Laptop Support::Usage request,giorgia,30,Email
+Laptop Support::Usage request,giorgia,45,Email
+Microsoft Software Support::Usage request - MS Windows,giorgia,20,Email
+Microsoft Software Support::Usage request - Ms Office,giorgia,30,Email
+IS-Printer support::Usage request,giorgia,30,Email
+IS-Strategic Software::New software license,giorgia,30,Email
+IS-Data Security and Protection::Phishing,giorgia,1,Email
+IS-Accounts::Password change,petros,15,Email
+IS-e-Mail::Usage request,petros,2,Email
+Laptop Support::New Laptop,giorgia,120,Email
+IS-Accounts::New account,petros,10,Email
+Desktop Support::Usage request,petros,30,Email
+IS-Wireless Network::Usage request,giorgia,30,Email
+Laptop Support::New Laptop,petros,31,Email
+IS-Printer support::Usage request,petros,21,Email
+IS-Tele-collaboration & synchronous education::Usage request,kallis,34,Email
+Specialized software::Usage request,kallis,48,Email
+IS-Accounts::Password change,giorgia,23,Email
+IS-Accounts::Password change,giorgia,23,Email
+Desktop Support::Usage request,giorgia,48,Email
+IS-Tools/Software provision,giorgia,63,Email
+IS-Data Security and Protection::Phishing,giorgia,33,Email
+Laptop Support,giorgia,63,Email
+IS-Tools/Software provision::Usage request,giorgia,33,Email
+IS-Identity Management - IDM::New account,giorgia,16,Email
+IS-Strategic OS-Software-Systems::Usage request - Active Directory,giorgia,123,Email
+Desktop Support::Performance degradation,giorgia,45,Email
+AS-E-Learning::Usage request,giorgia,17,Email
+AS-Financial Management System::Usage request,giorgia,18,Email
+Desktop Support::Usage request,giorgia,19,Email
+Microsoft Software Support::Usage request - MS Windows,giorgia,15,Email
+Desktop Support::Keyboard Malfunction,giorgia,15,Email
+IS-Accounts::Password change,giorgia,45,Email
+IS-Backup::New computer - CrashPlan,giorgia,20,Email
+IS-Backup::New computer - CrashPlan,giorgia,20,Email
+IS-Backup::New computer - CrashPlan,giorgia,20,Email
+IS-Backup::New computer - CrashPlan,giorgia,20,Email
+Laptop Support::Personalized (user) setup,giorgia,60,Email
+Laptop Support::Personalized (user) setup,giorgia,240,Email
+Desktop Support::New Desktop,giorgia,180,Email
+IS-Printer support::Usage request,petros,16,Email
+IS-Data Security and Protection::Phishing,petros,16,Email
+IS-Electronic Storage::Usage request,petros,15,Email
+IS-Peripheral Support::Usage request,giorgia,30,Email
+Obsolete equipment Management,giorgia,30,Email
+Obsolete equipment Management,giorgia,30,Email
+Specialized software::Usage request,giorgia,30,Email
+Laptop Support::Usage request,giorgia,30,Email
+Specialized software::Usage request,kallis,31,Email
+Microsoft Software Support::Usage request - Ms Office,kallis,31,Email
+IS-Printer support::Usage request,kallis,30,Email
+Laptop Support::Usage request,giorgia,60,Email
+IS-e-Mail::Usage request,kallis,81,Email
+IS-Printer support::Usage request,kallis,31,Email
+IS-Printer support::Usage request,kallis,31,Email
+IS-Printer support::Usage request,kallis,11,Email
+IS-Network Access::Performance degradation - Local Network access,petros,37,Email
+IS-Strategic OS-Software-Systems::Usage request - MS Windows,kallis,30,Email
+IS-Fax::Usage request,petros,5,Email
+Laptop Support::Usage request,giorgia,31,Email
+Desktop Support::Keyboard Malfunction,giorgia,25,Email
+IS-Wireless Network::Usage request,giorgia,15,Email
+Laptop Support::Usage request,giorgia,31,Email
+Laptop Support::Usage request,petros,11,Phone
+IS-Printer support::Usage request,petros,12,Email
+IS-Identity Management - IDM::Usage request,petros,27,Email
+Laptop Support,petros,126,Email
+Laptop Support,petros,21,Email
+Laptop Support::Usage request,petros,17,Email
+Specialized software::Usage request,petros,54,Email
+IS-Strategic Software::Usage request-Ms Office 365,giorgia,15,Email
+IS-Backup::CrashPlan usage request,giorgia,30,Email
+Specialized software::Usage request,giorgia,61,Email
+Specialized software::Usage request,giorgia,181,Email
+IS-Backup::CrashPlan usage request,giorgia,31,Email
+Specialized software::New installation,giorgia,31,Email
+Specialized software::New installation,giorgia,181,Email
+Specialized software::Usage request,giorgia,61,Email
+Specialized software::Usage request,giorgia,241,Email
+Specialized software::Usage request,giorgia,30,Email
+IS-Peripheral Support::Usage request,giorgia,61,Email
+Specialized software::New installation,giorgia,241,Email
+Specialized software::New installation,giorgia,241,Email
+Specialized software::New installation,giorgia,241,Email
+Specialized software::Usage request,giorgia,31,Email
+Specialized software::Usage request,giorgia,271,Email
+Obsolete equipment Management,giorgia,62,Email
+Specialized software::Usage request,giorgia,2,Email
+Laptop Support::New Laptop,giorgia,32,Email
+IS-Backup::CrashPlan usage request,kallis,10,Email
+Laptop Support::Usage request,kallis,31,Email
+IS-Network Access::Performance degradation - Local Network access,kallis,19,Phone
+IS-Printer support::Usage request,giorgia,32,Email
+Specialized software::Usage request,giorgia,241,Email
+Specialized software::Usage request,giorgia,151,Email
+Specialized software::Usage request,giorgia,181,Email
+IS-Multimedia Equipment::Usage request - Audiovisual equipment,giorgia,31,Email
+Laptop Support,kallis,120,Phone
+IS-Central Labs::Pc Malfunction,kallis,15,Email
+Desktop Support::Usage request,kallis,180,Email
+IS-Printer support::Usage request,kallis,30,Email
+IS-Strategic OS-Software-Systems::Usage request - MS Office,kallis,46,OnSiteVisit
+IS-Backup::CrashPlan usage request,giorgia,21,Email
+Laptop Support::Usage request,giorgia,121,Email
+Laptop Support::Usage request,giorgia,151,Email
+IS-e-Mail::Usage request,giorgia,31,Email
+Laptop Support::Usage request,giorgia,61,Email
+IS-Data Security and Protection::Phishing,giorgia,31,Phone
+IS-Mailing Lists::Usage request,petros,8,Email
+Specialized software::Usage request,kallis,23,Email
+Specialized software::New installation,petros,29,Email
+Desktop Support::Usage request,petros,314,Email
+IS-Strategic OS-Software-Systems::Usage request - MS Windows,petros,72,Email
+IS-Remote Access (VPN)::Usage request,petros,72,Email
+Specialized software::New installation,kallis,63,Email
+IS-Printer support::Usage request,petros,41,Email
+IS-Remote Access (VPN)::Usage request,petros,22,Email
+Laptop Support::Usage request,giorgia,121,Email
+IS-Peripheral Support::Usage request,giorgia,61,Email
+Laptop Support::Usage request,giorgia,181,Email
+Laptop Support::Usage request,giorgia,121,Email
+IS-Strategic OS-Software-Systems::Usage request - MS Office,giorgia,27,Email
+Laptop Support::Usage request,giorgia,121,Email
+Macintosh::New sw version,giorgia,15,Email
+Specialized software::Usage request,giorgia,30,Email
+IS-Peripheral Support,giorgia,30,Email
+Desktop Support::Usage request,giorgia,30,Email
+Laptop Support::Usage request,giorgia,30,Email
+IS-Printer support::Usage request,giorgia,30,Email
+IS-Identity Management - IDM::Account performance degradation,petros,10,Email
+Desktop Support::Usage request,giorgia,60,Email
+Laptop Support::Usage request,giorgia,15,Email
+Laptop Support::Usage request,giorgia,30,Email
+Obsolete equipment Management,giorgia,30,Email
+Laptop Support::Usage request,giorgia,46,Email
+Laptop Support::Usage request,giorgia,60,Email
+Desktop Support::New Desktop,giorgia,240,Email
+Laptop Support::Usage request,giorgia,180,Email
+Laptop Support::Usage request,giorgia,120,Email
+Specialized software::Usage request,giorgia,20,Email
+Obsolete equipment Management,giorgia,150,Email
+Laptop Support::Usage request,giorgia,180,Email
+Desktop Support::New Desktop,giorgia,240,Email
+Specialized software::Usage request,giorgia,60,Email
+Laptop Support::Usage request,giorgia,30,Email
+Laptop Support::Usage request,giorgia,63,Email
+IS-Strategic Software::Usage request-Ms Office 365,giorgia,18,Email
+Specialized software::Usage request,giorgia,30,Email
+IS-Printer support,giorgia,31,Email
+Specialized software::Usage request,giorgia,20,Email
+IS-Electronic Storage::Usage request,giorgia,20,Email
+Desktop Support::Personalized (user) setup,giorgia,30,Email
+IS-Printer support::Usage request,petros,21,Email
+Desktop Support,giorgia,181,Email
+Desktop Support::Usage request,giorgia,61,Email
+IS-Backup::CrashPlan usage request,giorgia,61,Email
+IS-Backup::CrashPlan usage request,giorgia,61,Email
+IS-Audiovisual Material Production::Video recording,giorgia,90,Email
+IS-Electronic Storage::Usage request,giorgia,15,Email
+IS-Multimedia Equipment::Usage request - Multimedia equipment,giorgia,60,Email
+Laptop Support::Usage request,giorgia,63,Email
+Desktop Support::Usage request,giorgia,31,Email
+Laptop Support,kallis,33,Email
+Desktop Support,kallis,611,Email
+Laptop Support::Usage request,giorgia,180,Email
+Microsoft Software Support::Personalized (user) setup - Ms Windows,giorgia,71,Email
+IS-Accounts::Usage request,giorgia,15,Email
+Non-strategic Software::Usage request,giorgia,15,Email
+IS-Printer support,giorgia,3,Email
+IS-Backup::CrashPlan usage request,giorgia,62,Email
+IS-Wireless Network::Usage request,petros,17,Email
+Laptop Support::Usage request,giorgia,15,Email
+Microsoft Software Support::Usage request - Ms Office,petros,5,Email
+Laptop Support,petros,62,Email
+Macintosh::Usage request,petros,94,OnSiteVisit
+St.Wel-Banner::Web Support,petros,37,Email
+Specialized Hardware::Usage request,giorgia,31,Email
+Specialized software::Usage request,giorgia,17,Email
+Obsolete equipment Management,giorgia,181,Email
+Laptop Support::Usage request,giorgia,14,Email
+Desktop Support::Usage request,giorgia,14,Email
+IS-Printer support,giorgia,16,Email
+IS-Remote Access (VPN)::New computer (installation),giorgia,11,Email
+IS-Tele-collaboration & synchronous education::Usage request,giorgia,31,Email
+Specialized software::Usage request,giorgia,16,Email
+Microsoft Software Support::Usage request - MS Windows,giorgia,30,Email
+Laptop Support::Usage request,petros,31,Email
+Laptop Support::Usage request,petros,32,Email
+IS-Fax::Usage request,petros,18,Email
+Laptop Support::Usage request,petros,20,Phone
+IS-Backup::CrashPlan usage request,petros,23,Email
+IS-Telephony::Usage request,petros,68,Email
+Laptop Support::Personalized (user) setup,petros,54,Email
+Specialized software::Usage request,petros,71,Email
+Specialized software::Usage request,giorgia,32,Email
+Specialized software::New installation,giorgia,37,Email
+IS-Strategic Software::Usage request-Ms Office 365,giorgia,30,Email
+IS-Remote Access (VPN)::Client sw malfunction,giorgia,11,Phone
+AS-ERMIS::Usage request,kallis,60,Email
+IS-Printer support::Usage request,kallis,20,Email
+IS-Strategic Software::Usage request-Ms Office 365,kallis,30,Email
+IS-Strategic Software::Usage request-Ms Office 365,kallis,30,Email
+IS-Telephony::Application connection,kallis,122,Phone
+AS-E-Learning::Usage request,kallis,31,Email
+IS-Remote Access (VPN)::Usage request,kallis,46,Email
+Microsoft Software Support::Usage request - Ms Office,kallis,62,Email
+Laptop Support::Usage request,kallis,47,Phone
+IS-Electronic Storage::Usage request,kallis,47,Email
+Microsoft Software Support::Usage request - MS Windows,petros,10,Email
+IS-Remote Access (VPN)::Usage request,petros,16,Email
+Specialized software::Usage request,kallis,31,Email
+IS-Remote Access (VPN)::Usage request,kallis,31,Email
+IS-Strategic Software::Usage request-Ms Office 365,kallis,61,Email
+IS-Strategic Software::Usage request-Ms Office 365,kallis,2,Email
+IS-Remote Access (VPN)::New computer (installation),kallis,2,Email
+Specialized software::New installation,kallis,2,Email
+Laptop Support,kallis,49,Email
+Laptop Support,kallis,64,Email
+Tender management::Needs gathering,kallis,56,Email
+Laptop Support,kallis,304,Email
+IS-Printer support::Usage request,kallis,25,Email
+IS-Fax::Usage request,kallis,35,Email
+Laptop Support::Usage request,kallis,37,Email
+IS-Peripheral Support::Usage request,kallis,48,Email
+Desktop Support::Motherboard malfunction,kallis,616,Email
+Specialized software::Usage request,giorgia,249,Email
+IS-Strategic Software::Usage request-Ms Office 365,kallis,30,Email
+IS-Telephony::Application connection,kallis,20,Email
+Laptop Support::Usage request,petros,10,Phone
+IS-Data Security and Protection::Phishing,petros,16,Email
+Tender management::Orders,kallis,15,Email
+IS-Strategic OS-Software-Systems::Personalized setup - Active Directory,kallis,20,Email
+Laptop Support::Usage request,kallis,45,Email
+Specialized software::Usage request,petros,30,Email
+Microsoft Software Support::Usage request - Ms Office,petros,49,Email
+Laptop Support::Usage request,petros,66,Phone
+Laptop Support,giorgia,75,Email
+IS-Remote Access (VPN),giorgia,30,Email
+St.Wel-Banner::Web Support,petros,10,Phone
+IS-Strategic Software::Usage request-Ms Office 365,petros,14,Email
+Microsoft Software Support::Usage request - Ms Office,giorgia,30,Email
+IS-Strategic OS-Software-Systems::Personalized setup - Active Directory,giorgia,30,Email
+Microsoft Software Support::Usage request - Ms Office,giorgia,30,Email
+IS-Remote Access (VPN)::Usage request,giorgia,10,Email
+IS-Videoconference::Usage request,giorgia,31,Email
+IS-Strategic Software::Usage request-Ms Office 365,kallis,31,Email
+Tender management::Orders,kallis,31,Email
+IS-Identity Management - IDM::New account,kallis,32,Email
+Desktop Support::Usage request,kallis,130,Email
+Laptop Support::New Laptop,giorgia,60,Email
+Laptop Support::Usage request,giorgia,60,Email
+IS-Strategic Software::Usage request-Ms Office 365,giorgia,16,Email
+Laptop Support::Usage request,giorgia,15,Email
+IS-Strategic Software::Usage request-Ms Office 365,giorgia,32,Email
+Specialized software::Usage request,giorgia,23,Email
+Laptop Support,giorgia,16,Email
+Laptop Support,giorgia,16,Email
+IS-Strategic Software::Usage request-Ms Office 365,giorgia,15,Email
+Laptop Support::Usage request,giorgia,60,Email
+IS-Remote Access (VPN)::Usage request,giorgia,15,Email
+St.Wel-Banner::Web Support,petros,30,Email
+Laptop Support::Usage request,giorgia,30,Email
+IS-Strategic Software::Usage request-Ms Office 365,giorgia,46,Email
+IS-Backup::CrashPlan usage request,giorgia,29,Email
+IS-Identity Management - IDM::New account,giorgia,15,Email
+IS-Strategic Software::Usage request-Ms Office 365,giorgia,15,Email
+IS-Strategic Software::Usage request-Ms Office 365,giorgia,15,Email
+IS-Remote Access (VPN)::Usage request,giorgia,31,Email
+IS-Strategic Software::Usage request-Ms Office 365,giorgia,10,Email
+IS-Strategic Software::Usage request-Ms Office 365,giorgia,60,Email
+IS-e-Mail,giorgia,75,Email
+IS-Strategic Software::Usage request-Ms Office 365,giorgia,15,Email
+IS-Strategic Software::Usage request-Ms Office 365,giorgia,1,Email
+Microsoft Software Support::Usage request - Ms Office,giorgia,30,Email
+Specialized software::Usage request,giorgia,15,Email
+Microsoft Software Support::Usage request - MS Windows,giorgia,15,Email
+IS-Strategic OS-Software-Systems::Usage request - MS Windows,giorgia,25,Email
+Obsolete equipment Management,giorgia,501,SelfAssigned
+Desktop Support::Display Malfunction,giorgia,30,Email
+Laptop Support::Usage request,giorgia,11,Email
+Laptop Support::Usage request,giorgia,21,Email
+IS-Accounts,giorgia,16,SelfAssigned
+IS-Videoconference::Usage request,giorgia,5,Email
+Laptop Support::Usage request,giorgia,17,Email
+Laptop Support,giorgia,1,Email
+Microsoft Software Support::Usage request - MS Windows,giorgia,16,Email
+Microsoft Software Support::Usage request - Ms Office,giorgia,22,Email
+IS-Telephony::Usage request,giorgia,155,Email
+Specialized software::Usage request,giorgia,61,Email
+Desktop Support::Keyboard Malfunction,giorgia,32,Email
+Obsolete equipment Management,giorgia,181,Email
+Laptop Support::New Laptop,giorgia,300,Email
+IS-Antispam::Usage request,giorgia,10,Email
+Specialized software::Usage request,giorgia,135,Email
+Macintosh,giorgia,10,Email
+Desktop Support::New sw version,giorgia,10,Email
+Specialized software::Usage request,giorgia,78,Email
+Specialized software::Usage request,giorgia,61,Email
+IS-Printer support,giorgia,5,Email
+Laptop Support::Usage request,giorgia,181,Email
+IS-Incident Management System::Usage request,petros,91,Email
+IS-Printer support::Usage request,petros,20,Email
+IS-Accounts::Performance degradation,giorgia,15,Email
+IS-Accounts::Account removal,giorgia,30,Email
+Laptop Support::Usage request,giorgia,16,Email
+IS-Endpoint Protection::New computer (installation),giorgia,10,Email
+Laptop Support,giorgia,45,Email
+Laptop Support,giorgia,90,Email
+Specialized Hardware,giorgia,45,Email
+Laptop Support,giorgia,30,Email
+Laptop Support,giorgia,60,Email
+Desktop Support,giorgia,30,Email
+Specialized software::Usage request,giorgia,31,Email
+IS-Strategic OS-Software-Systems::Usage request - MS Office,giorgia,51,Email
+Macintosh,giorgia,45,Email
+IS-Network Access::New network point,giorgia,15,Email
+Laptop Support,giorgia,75,Email
+Laptop Support::Usage request,giorgia,181,Email
+IS-Identity Management - IDM::Usage request,giorgia,15,Email
+Obsolete equipment Management,giorgia,40,Email
+Laptop Support::Power Supply malfunction,giorgia,240,Email
+IS-Accounts::Usage request,giorgia,15,Email
+IS-Identity Management - IDM::Usage request,petros,30,Email
+Laptop Support::Usage request,petros,11,Email
+AS-E-Learning::Usage request,petros,20,Email
+Tender management::Payments Tracking,giorgia,30,Email
+Specialized software,giorgia,16,Email
+Specialized Hardware::Personalised setup,giorgia,66,Email
+Laptop Support::New Laptop,petros,181,Email
+Specialized software::Usage request,giorgia,77,Email
+IS-Strategic Software::Usage request-Ms Office 365,giorgia,17,Email
+Laptop Support,giorgia,16,Email
+IS-Printer support::Toner malfunction,giorgia,15,Email
+IS-Strategic Software::Usage request-Ms Office 365,giorgia,32,Email
+IS-Remote Access (VPN)::Usage request,giorgia,21,Email
+IS-Printer support::Usage request,petros,15,Email
+Specialized software::Usage request,giorgia,16,Email
+IS-Printer support::Usage request,giorgia,8,Email
+IS-Remote Access (VPN)::Usage request,giorgia,16,Email
+Laptop Support::Usage request,giorgia,30,Email
+Laptop Support,giorgia,30,Email
+Laptop Support::Usage request,giorgia,1,Email
+Specialized software::New installation,petros,19,Email
+Laptop Support::Usage request,petros,121,Email
+IS-Peripheral Support::Usage request,petros,36,Email
+Microsoft Software Support::Usage request - MS Windows,petros,46,OnSiteVisit
+Desktop Support::Keyboard Malfunction,giorgia,45,Email
+Laptop Support,giorgia,45,Email
+Macintosh,giorgia,39,Email
+Specialized software::Usage request,giorgia,32,Email
+Laptop Support::Usage request,giorgia,11,Email
+IS-Printer support::Usage request,petros,31,Email
+Laptop Support::Usage request,petros,31,Phone
+IS-Strategic Software::Usage request-Ms Office 365,petros,46,Email
+Laptop Support::Usage request,giorgia,45,Email
+Laptop Support::Usage request,giorgia,50,Email
+IS-Remote Access (VPN),giorgia,30,Email
+Laptop Support,giorgia,31,Email
+Specialized software::Usage request,giorgia,70,Email
+IS-e-Mail::Mail Office365,giorgia,210,Email
+IS-Identity Management - IDM::Usage request,kallis,30,Email
+IS-Accounts::New account,kallis,21,Email
+IS-Multimedia Applications::Usage request,kallis,124,Email
+Tender management::Orders,kallis,34,Email
+IS-Identity Management - IDM::New account,giorgia,16,Email
+Specialized software::Usage request,giorgia,15,Email
+Laptop Support,giorgia,16,Email
+Laptop Support,giorgia,45,Email
+IS-Strategic Software::New software license,giorgia,10,Email
+Specialized software::Usage request,kallis,15,Email
+Laptop Support::Usage request,giorgia,80,Email
+IS-Tele-collaboration & synchronous education::Usage request,petros,15,Email
+IS-Fax::Usage request,petros,10,Email
+Desktop Support::Usage request,kallis,149,Email
+Laptop Support,giorgia,15,Email
+AS-UCY Portal::Usage request,kallis,20,Email
+Specialized software::Usage request,kallis,180,Email
+Specialized software::New installation,giorgia,90,Email
+IS-e-Mail::Usage request,giorgia,11,Email
+Laptop Support,giorgia,15,Email
+AS-Content Management System::Usage request,kallis,15,Email
+St.Wel-Banner::Statistics,petros,20,Email
+Laptop Support,giorgia,180,Email
+Laptop Support,giorgia,240,Email
+Laptop Support,giorgia,60,Email
+IS-Strategic OS-Software-Systems::Usage request - Active Directory,giorgia,60,Email
+AS-UCY Portal::Usage request,giorgia,20,Email
+Laptop Support,giorgia,15,Email
+Specialized software::Usage request,giorgia,60,Email
+Laptop Support::New Laptop,petros,72,Phone
+Desktop Support,petros,120,Email
+Desktop Support::Performance degradation,petros,321,OnSiteVisit
+IS-Remote Access (VPN)::Usage request,giorgia,25,Email
+Macintosh::Personalized (user) setup iOs,giorgia,75,Email
+IS-Strategic Software::New software license,giorgia,60,Email
+Specialized software::Usage request,giorgia,45,Email
+IS-e-Mail::Usage request,petros,20,Email
+IS-Strategic OS-Software-Systems::Usage request - MS Windows,petros,55,Phone
+IS-Strategic Software::New software license,petros,21,Email
+IS-Strategic Software::Usage request-Ms Office 365,petros,46,Email
+Laptop Support,giorgia,30,Email
+Specialized software::New installation,giorgia,63,Email
+Non-strategic Software,giorgia,20,Email
+Desktop Support,giorgia,720,Email
+Desktop Support,giorgia,960,Email
+IS-Accounts::Usage request,petros,10,Email
+Laptop Support::Usage request,giorgia,46,Email
+Specialized software::New installation,giorgia,30,Email
+Laptop Support,giorgia,90,Email
+Laptop Support,giorgia,15,Email
+Desktop Support,giorgia,360,Email
+Desktop Support,giorgia,540,Email
+IS-Identity Management - IDM::New account,petros,15,Email
+Laptop Support::Usage request,petros,15,Email
+Laptop Support::Usage request,petros,62,Email
+Laptop Support::Usage request,giorgia,60,Email
+Non-strategic Software,giorgia,30,Email
+Desktop Support,giorgia,180,Email
+IS-Digital video broadcasting::Real-time video streaming,petros,12,Phone
+Laptop Support::Usage request,giorgia,90,Email
+IS-Identity Management - IDM::New account,giorgia,15,Email
+IS-Identity Management - IDM::New account,giorgia,15,Email
+IS-Strategic OS-Software-Systems::Usage request - Active Directory,petros,15,Email
+IS-Remote Access (VPN)::Usage request,petros,15,Email
+IS-Printer support::Usage request,petros,5,Email
+Desktop Support,giorgia,361,Email
+IS-Strategic OS-Software-Systems::Usage request - MS Windows,petros,22,Email
+IS-Identity Management - IDM::New account,petros,10,Email
+IS-e-Mail::Usage request,giorgia,30,Email
+IS-Peripheral Support,giorgia,32,OnSiteVisit
+IS-Wireless Network::Usage request,petros,45,Phone
+Laptop Support,giorgia,15,Email
+Macintosh,giorgia,15,Email
+IS-Printer support,giorgia,30,Email
+Non-strategic Software,giorgia,16,Email
+IS-Printer support,giorgia,30,Email
+Desktop Support,giorgia,180,Email
+Laptop Support,giorgia,31,Email
+Specialized software::Usage request,giorgia,30,Email
+IS-Strategic Software::Usage request-Ms Office 365,giorgia,60,Email
+IS-Printer support::Usage request,petros,71,Phone
+IS-Peripheral Support::DLP malfunction,giorgia,120,Email
+IS-Accounts::New account,giorgia,30,Email
+IS-Accounts::New account,giorgia,11,Phone
+IS-Strategic Software::Usage request-Ms Office 365,petros,5,Email
+Laptop Support,giorgia,10,Email
+Laptop Support,giorgia,1,Email
+IS-Accounts,giorgia,15,Email
+IS-Accounts,giorgia,15,Email
+IS-Accounts,giorgia,15,Email
+IS-Accounts,giorgia,75,Email
+IS-Accounts,giorgia,55,Email
+IS-Identity Management - IDM::New account,giorgia,30,Email
+IS-Accounts,giorgia,70,Email
+Desktop Support,giorgia,61,Email
+Laptop Support,petros,15,Email
+IS-Data Security and Protection::Phishing,petros,30,Email
+IS-Data Security and Protection::Phishing,petros,1,Email
+Laptop Support,petros,21,Phone
+Laptop Support,giorgia,25,Email
+IS-Accounts,giorgia,60,Email
+IS-Accounts,giorgia,2,Email
+Laptop Support::Usage request,giorgia,41,Email
+IS-Identity Management - IDM::New account,giorgia,30,Email
+IS-Accounts,giorgia,30,Email
+IS-Identity Management - IDM::New account,giorgia,30,Email
+Laptop Support,petros,26,Email
+Laptop Support,kallis,90,Email
+Laptop Support::Usage request,petros,31,Phone
+IS-Identity Management - IDM::New account,petros,20,Email
+IS-Identity Management - IDM::New account,petros,21,Email
+IS-Remote Access (VPN)::Usage request,petros,10,Email
+Microsoft Software Support::Usage request - Ms Office,petros,5,Email
+IS-Identity Management - IDM::New account,petros,5,Email
+Laptop Support::Usage request,petros,180,Email
+Laptop Support::Usage request,kallis,66,OnSiteVisit
+IS-e-Mail,petros,11,Email
+Specialized software::New installation,petros,16,Email
+IS-Antispam::Usage request,petros,15,Email
+Laptop Support::Usage request,kallis,46,Email
+IS-Printer support::Usage request,kallis,30,Email
+Microsoft Software Support::Usage request - MS Windows,kallis,61,Email
+Laptop Support,kallis,61,Email
+Laptop Support::Usage request,kallis,32,Email
+Desktop Support,kallis,67,Email
+IS-Printer support::Usage request,petros,79,Phone
+Laptop Support::Usage request,petros,51,Phone
+Laptop Support,petros,128,OnSiteVisit
+Macintosh::Usage request,petros,27,Phone
+IS-Remote Access (VPN)::Usage request,petros,36,Email
+IS-Remote Access (VPN)::Usage request,petros,16,Email
+IS-Remote Access (VPN)::Usage request,petros,48,Email
+IS-e-Mail::Usage request,petros,30,Phone
+Laptop Support::Usage request,petros,41,Email
+IS-Strategic OS-Software-Systems::Personalized setup - Active Directory,petros,25,Email
+IS-Strategic Software::Usage request-Ms Office 365,petros,27,Email
+Laptop Support,petros,52,Phone
+Laptop Support::Usage request,petros,39,Email
+IS-e-Mail::Usage request,petros,28,Email
+IS-Videoconference::Usage request,petros,30,Email
+IS-Strategic OS-Software-Systems::Usage request - MS Windows,petros,41,Email
+Specialized software::Usage request,petros,46,Phone
+AS-Application Server Management,petros,157,Email
+Desktop Support::Monitor malfunction,petros,150,Email
+IS-Endpoint Protection::Usage request,petros,25,Email
+Laptop Support::Usage request,petros,19,Email
+IS-Telephony::Application connection,petros,190,Email
+IS-Perimeter Network Security::Access to Network resources,petros,75,Email
+IS-Electronic Storage::Usage request,petros,75,Email
+IS-e-Mail::Usage request,petros,195,Phone
+IS-Strategic OS-Software-Systems::Personalized setup - Active Directory,petros,30,Email
+Laptop Support::Usage request,petros,136,Email
+IS-Electronic Storage::Usage request,petros,31,Email
+Laptop Support::Usage request,petros,20,Email
+Laptop Support::Usage request,petros,199,Email
+Desktop Support::Display Malfunction,petros,50,Email
+Microsoft Software Support::Usage request - Ms Office,petros,20,Phone
+IS-e-Mail::Usage request,petros,32,Email
+Laptop Support::Usage request,root@localhost,10,Email
+IS-Network Access::Performance degradation - Local Network access,root@localhost,10,Email
+Tender management::Payments Tracking,kallis,32,Email
+Specialized software::Usage request,kallis,33,Email
+IS-Identity Management - IDM::New account,giorgia,15,Email
