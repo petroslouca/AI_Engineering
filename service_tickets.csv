@@ -1,0 +1,20 @@
+Service,Agent,Time,Medium
+Laptop Support,3,120,Phone
+Desktop Support::Personalized (user) setup,3,241,Phone
+Desktop Support::Personalized (user) setup,3,181,Phone
+IS-Accounts::New account,3,60,Email
+IS-Multimedia Equipment::Usage request - Multimedia equipment,3,20,Phone
+IS-Multimedia Equipment::Usage request - Multimedia equipment,3,30,Email
+IS-Accounts::New account,3,30,Email
+Laptop Support::Usage request,3,30,Phone
+Laptop Support::Power Supply malfunction,3,31,OnSiteVisit
+Laptop Support::Usage request,3,61,Phone
+Laptop Support,3,181,Email
+IS-Accounts::Usage request,3,30,Email
+Non-strategic Software,3,60,Email
+Non-strategic Software,3,15,Phone
+IS-Electronic Storage,3,30,Phone
+IS-Accounts::Usage request,3,40,Email
+IS-Incident Management System::Usage request,1,3,Email
+Specialized software::New installation,1,16,Email
+Laptop Support,1,10,Email
